@@ -1,4 +1,4 @@
 # Site-Atividade
-https://gabiisc.github.io/Site-Atividade.github.io/
+https://gabiisc.github.io/Site-Atividade/
 <br>
 HTML e CSS
